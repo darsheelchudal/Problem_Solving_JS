@@ -22,7 +22,6 @@
 //Method 2
 const myName = "Darsheels Chudal";
 function printLastCharacter(name) {
-  const lastChar = name;
-  return lastChar;
+  return name.charAt(name.length - 1);
 }
-console.log(printLastCharacter(myName.charAt(myName.length - 1)));
+console.log(printLastCharacter(myName));

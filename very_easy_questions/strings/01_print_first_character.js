@@ -24,7 +24,6 @@
 // Method 2
 const myName = "Darsheel Chudal";
 function printFirstCharacter(name) {
-  const firstChar = name;
-  return firstChar;
+  return name.charAt(0);
 }
-console.log(printFirstCharacter(myName.charAt(0)));
+console.log(printFirstCharacter(myName));
