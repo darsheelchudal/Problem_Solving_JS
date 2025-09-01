@@ -2,7 +2,7 @@
 
 //Algorithm
 // 1. Take a string and hold it in a variable
-// 2. Access the first character using index 0
+// 2. Access the first character
 // 3. Print or return that character
 
 //PseudoCode

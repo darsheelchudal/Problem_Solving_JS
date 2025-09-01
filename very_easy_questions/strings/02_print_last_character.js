@@ -2,7 +2,7 @@
 
 //Algorithm
 // 1. Assign the string to a variable
-// 2. Access the last element of the string, string[string.length - 1]
+// 2. Access the last element of the string
 // 3. Print or return the last element
 
 //PseudoCode
