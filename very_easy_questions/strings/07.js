@@ -1,3 +1,5 @@
+// Check if a string includes a substring.
+
 // Algorithm
 // 1. Take a mainString and hold it in a variable
 // 2. Take a subString and hold it in a variable
