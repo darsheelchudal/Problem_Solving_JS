@@ -9,7 +9,7 @@
 
 // Pseudocode
 // function getIndexOfCharacter(string, charIndex)
-//  findIndex = string.charAt(charIndex)
+//  findIndex = string.indexOf(charIndex)
 //  print findIndex
 
 // Source code
