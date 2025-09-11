@@ -2,7 +2,7 @@
 
 // Algorithm
 // 1. Take an array and hold it in a variable
-// 2. Print the first element of array using 0 index
+// 2. Print the first element of array using index
 
 // Pseudocode
 // array = [1,2,3,4,5]
