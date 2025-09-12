@@ -7,6 +7,7 @@
 // Pseudo-code
 // array = [1,3,4,5,6]
 // array[array.length-1]
+// prin array
 
 // Source code
 const myArr = [1, 3, 4, 65, 7];
