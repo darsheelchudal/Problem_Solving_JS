@@ -5,7 +5,7 @@
 // 2. Print the last elemeent of array
 
 // Pseudo-code
-// array = [1,3,4,5,6]
+// array = [arr1,arr2,arr3,arr4,arr5]
 // array[array.length-1]
 // prin array
 
